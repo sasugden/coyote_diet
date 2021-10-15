@@ -4,7 +4,6 @@ This repository provides supporting information for the manuscript "Inter-popula
 
 - <b>SIA_analysis_script</b> provides the R code to reproduce all analyses and statistical tests.
 - <b>SIA_figures_script</b> provides the R code to reproduce all figures. It requires objects produced by the analysis code.
-- <b>SIA_workspace</b> is a ready-to-use R workspace that can be used in conjunction with the code files above to reproduce all analyses.
 
 Input files for stable isotope mixing models are provided in the folder "mixing_model_inputs." The raw stable iosotope data for individual coyotes are provided in the folder "raw_data."
 
